@@ -1,4 +1,5 @@
-RoadSense: 3D Hazard Intelligence
+RoadSense: Vision Assisted Road Safety
+
 
 A depth-aware road safety system that detects obstacles, potholes, lane paths, and drivable road regions when visibility goes full villain mode (fog, rain, night, glare, you name it).
 
